@@ -1,4 +1,4 @@
-public class Palindrome {
+public class palindrome_number2 {
     public static boolean isPalindrome(int x) {
         if(x<0){return false;}
         int result = 0;
